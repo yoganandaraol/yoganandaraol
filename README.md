@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Yogananda Rao Locherla</h1>
 <h3 align="center">A passionate full-stack .NET developer from India.</h3>
-<img src="https://user-images.githubusercontent.com/23414296/189687297-a655e592-a5a3-437e-bda3-d1bb49ef1937.png" align="right" alt="Code Monster" width="400 />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Code Monster" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoganandaraol&label=Profile%20views&color=0e75b6&style=flat" alt="yoganandaraol" /> </p>
 
