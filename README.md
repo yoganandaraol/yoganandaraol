@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/yogananda-rao-locherla-121b2213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogananda-rao-locherla-121b2213" height="30" width="40" /></a>
 </div>
 <div>
-<div align="right">
+<div align="left">
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yogananda-rao-locherla-121b2213" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yogananda-rao-locherla-121b2213?trk=profile-badge">Yogananda Rao Locherla</a></div>
               
