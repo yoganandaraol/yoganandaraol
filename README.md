@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoganandaraol&label=Profile%20views&color=0e75b6&style=flat" alt="yoganandaraol" /> </p>
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **.NET based Web applications, Web API, C#, React, SQL, Solution Design, Scikit-Learn**
 
