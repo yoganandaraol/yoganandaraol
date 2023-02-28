@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Yogananda Rao Locherla</h1>
-<h3 align="center">A passionate full-stack .NET developer from Sydney, Australia.</h3>
+<h3 align="center">A passionate full-stack Java/.NET developer from Sydney, Australia.</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Code Monster" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoganandaraol&label=Profile%20views&color=0e75b6&style=flat" alt="yoganandaraol" /> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Dockers, AWS**
 
-- 💬 Ask me about **.NET based Web applications, Web API, C#, React, SQL, Solution Design, Scikit-Learn**
+- 💬 Ask me about **MVC and Restful APIs using Java and Spring Boot, .NET based Web applications, Web API, C#, React, SQL, Solution Design, Scikit-Learn**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
